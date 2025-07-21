@@ -5,6 +5,11 @@
 BugTracker is a simple project created for learning and practicing Git and GitHub workflows. It includes basic front-end and optional back-end files to simulate real-world version control tasks like branching, merge conflicts, stashing, resets, and more.
 
 ---
+## 📄 Documentation
+
+For detailed documentation, please refer to the following link:
+
+[BugTracker Documentation](https://epsusllc-my.sharepoint.com/:w:/g/personal/hariram_l_epssw_com/EXG_YLPCpdxGmeK77RYET8gBMGPVt9--0E05v-rJe4sA9A?e=x9PFae)
 
 ## 📌 Tasks Completed
 
