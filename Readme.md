@@ -74,15 +74,15 @@ Git & GitHub Training - Day 1
 
 ---
 
-```
 
 ## 📸 Git Screenshots
 
-### ✅ Git Status (Merge Conflict Example)
-![Git Status](Git status.png)
+### ✅ Git Log 1 
+<img src="https://github.com/hariram7405/BugTracker/blob/main/git%20log2.png" alt="Git Log 2" width="600"/>
 
-### ✅ Git Log - Conventional Commits View
-![Git Log 1](Git log1.png)
+### ✅ Git Log 2 
+<img src="https://github.com/hariram7405/BugTracker/blob/main/git%20log2.png" alt="Git Log 2" width="600"/>
 
-### ✅ Git Log - More Commits
-![Git Log 2](Git log2.png)
+### ✅ Git Status (Merge Conflict)
+<img src="https://github.com/hariram7405/BugTracker/blob/main/Git%20status.png" alt="Git Status" width="600"/>
+
